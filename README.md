@@ -1,4 +1,4 @@
-# Task Management App
+# Task Manager
 
 A simple React application for managing tasks with features like adding, editing, deleting, and reordering tasks. Includes notifications for actions and a clean, responsive UI.
 
