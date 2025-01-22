@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fa;
+  }
+  
+  header {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .task-list {
+    margin-top: 20px;
+  }
+  
+  .task {
+    background-color: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  input,
+  select {
+    padding: 8px;
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  input[type="datetime-local"] {
+    width: 100%;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .task-list.over {
+    background-color: #f1f1f1;
+  }
+  
