@@ -2,6 +2,16 @@
 
 A simple React application for managing tasks with features like adding, editing, deleting, and reordering tasks. Includes notifications for actions and a clean, responsive UI.
 
+## Problem Statement
+People often struggle to manage their tasks efficiently, leading to missed deadlines and disorganization. Many existing tools are either too complicated or lack essential features like reminders or notifications.
+
+## Objective
+This web app helps users:
+
+- Add, edit, delete, and reorder tasks easily.
+- Set reminders for important tasks.
+- Get instant notifications for task updates.
+
 ## Features
 
 - Add, edit, and delete tasks.
